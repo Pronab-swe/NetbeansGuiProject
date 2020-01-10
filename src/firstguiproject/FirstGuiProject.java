@@ -10,7 +10,7 @@ public class FirstGuiProject {
        ad.show();
        
         System.out.println("fdhgfdhbdfr");
-        System.out.println("fghfdghfg");
+        ad.hide();
     }
     
 }
