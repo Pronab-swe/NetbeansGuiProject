@@ -9,7 +9,7 @@ public class FirstGuiProject {
        Addition ad = new Addition();
        ad.show();
        
-        System.out.println("dfgfdgfd");
+        ad.hide();
     }
     
 }
